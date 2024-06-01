@@ -64,16 +64,17 @@ resume = [
 help = [
   "<br>",
   '<span class="command">aboutme</span>        Who is Jakob Grebe?',
+  '<span class="command">social</span>         Display social networks',
   '<span class="command">summary</span>        The hardcore stuff!',
   '<span class="command">education</span>      Where I go everyday!!',
   '<span class="command">resume</span>         Ooo so professional',
-  '<span class="command">social</span>         Display social networks',
   '<span class="command">projects</span>       View my awesome projects',
-  '<span class="command">history</span>        View command history',
-  '<span class="command">help</span>           This has gotta be self explanitory right?',
   '<span class="command">email</span>          Best form of contact!!!',
-  '<span class="command">clear</span>          Clear terminal',
+  '<br>',
   '<span class="command">banner</span>         Display the header',
+  '<span class="command">help</span>           This has gotta be self explanitory right?',
+  '<span class="command">history</span>        View command history',
+  '<span class="command">clear</span>          Clear terminal',
   "<br>",
 ];
 
