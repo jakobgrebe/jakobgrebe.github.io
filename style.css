@@ -126,3 +126,14 @@ body {
   a:focus {
     outline: 0;
   }
+  .ascii-art {
+    font-family: 'Courier New', Courier, monospace;
+    white-space: pre;
+  }
+  .color2 {
+    color: #B89076;
+  }
+  .command {
+    color: #73ABAD;
+    text-shadow: 0 0 5px #73ABAD;
+  }
