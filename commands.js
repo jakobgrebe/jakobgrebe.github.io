@@ -1,6 +1,6 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var instagram = "https://www.instagram.com/jakobgrebe/";
-var github = "https://github.com/jgrebe/";
+var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
 
 aboutme = [
@@ -33,7 +33,7 @@ social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/jakobgrebe' + "</a>",
   'instagram      <a href="' + instagram + '" target="_blank">instagram/jakobgrebe' + '</a>',
-  'github         <a href="' + github + '" target="_blank">github/jgrebe' + "</a>",
+  'github         <a href="' + github + '" target="_blank">github/jakobgrebe' + "</a>",
   "<br>"
 ];
 
@@ -72,7 +72,7 @@ help = [
   '<span class="command">email</span>          Best form of contact!!!',
   '<br>',
   '<span class="command">banner</span>         Display the header',
-  '<span class="command">help</span>           This has gotta be self explanitory right?',
+  '<span class="command">help</span>           This has gotta be self explanatory right?',
   '<span class="command">history</span>        View command history',
   '<span class="command">clear</span>          Clear terminal',
   "<br>",
