@@ -61,7 +61,7 @@ body {
   }
   #liner::before {
     color: #519975;
-    content: "visitor@fkcodes.com:~$";
+    content: "visitor@jgrebe.com:~$";
   }
   @keyframes show {
     from {
@@ -136,5 +136,5 @@ body {
   .command {
     color: #73ABAD;
     text-shadow: 0 0 5px #73ABAD;
-    
+
   }
