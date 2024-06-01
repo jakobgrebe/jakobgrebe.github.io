@@ -51,7 +51,7 @@ education = [
 
 help = [
   "<br>",
-  '<span class="command">whois</span>          Who is Jakob Grebe?',
+  '<span class="command">aboutme</span>        Who is Jakob Grebe?',
   '<span class="command">summary</span>        The hardcore stuff!',
   '<span class="command">education</span>      Where I go everyday!!',
   '<span class="command">resume</span>         Ooo so professional',
@@ -67,7 +67,7 @@ help = [
 
 banner = [
   "  __        _         _         ___          _              ___           _    __       _ _        ",
-  "  \\ \\  __ _| | __gti___ | |__     / _ \\_ __ ___| |__   ___    / _ \\___  _ __| |_ / _| ___ | (_) ___   ",
+  "  \\ \\  __ _| | _____ | |__     / _ \\_ __ ___| |__   ___    / _ \\___  _ __| |_ / _| ___ | (_) ___   ",
   "   \\ \\/ _` | |/ / _ \\| '_ \\   / /_\\/ '__/ _ \\ '_ \\ / _ \\  / /_)/ _ \\| '__| __| |_ / _ \\| | |/ _ \\  ",
   " /\\_/ / (_| |   < (_) | |_) | / /_\\\\| | |  __/ |_) |  __/ / ___/ (_) | |  | |_|  _| (_) | | | (_) | ",
   " \\___/ \\__,_|_|\\_\\___/|_.__/  \\____/|_|  \\___|_.__/ \\___| \\/    \\___/|_|   \\__|_|  \\___/|_|_|\\___/  ",
