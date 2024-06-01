@@ -1,7 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var instagram = "https://www.instagram.com/jakobgrebe/";
 var github = "https://github.com/jgrebe/";
-var email = 'jakobgrebe98@gmail.com';
+var email = 'mailto:jakobgrebe98@gmail.com';
 
 aboutme = [
   "<br>",
