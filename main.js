@@ -63,9 +63,10 @@ function commander(cmd) {
     case "education":
       loopLines(education, "color2 margin", 80);
         break;
-    case "resume":
-      loopLines(resume, "color2 margin", 80);
-        break;
+        case "resume":
+          addLine('Opening Current Resume:<a href="https://drive.google.com/file/d/1OTl0rKsnkSTUDHNKqzrqFHzM6LYQRFKZ/view?usp=sharing</a>...', "color2", 80);
+          newTab(resume);
+          break;
     case "social":
       loopLines(social, "color2 margin", 80);
       break;

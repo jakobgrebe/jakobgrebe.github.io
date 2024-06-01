@@ -1,7 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
-var instagram = "https://www.instagram.com/jakobgrebe/";
 var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
+var resume = "https://drive.google.com/file/d/1OTl0rKsnkSTUDHNKqzrqFHzM6LYQRFKZ/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -11,7 +11,7 @@ aboutme = [
   "<br>",
   "I love the world of technology and am very eager to enter the workforce quickly after graduation, in May 2025!",
   "<br>",
-  "I currently work as a Kitchen Leader at Chipotle Mexican Grill — yes, I'm a certified burrito master! 🌯",
+  "I currently work as a Kitchen Leader at Chipotle Mexican Grill.",
   "Every moment here has been a blast. Chipotle has transformed me into a teamwork ninja,",
   "a problem-solving guru, a time-management wizard, and a leadership champ",
   "(you know, those skills everyone claims they have, but mine come with extra guac).",
@@ -32,7 +32,6 @@ aboutme = [
 social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/jakobgrebe' + "</a>",
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/jakobgrebe' + '</a>',
   'github         <a href="' + github + '" target="_blank">github/jakobgrebe' + "</a>",
   "<br>"
 ];
@@ -45,19 +44,23 @@ projects = [
 
 education = [
   "<br>",
-  "",
+  "Colorado State University - Fort Collins, CO (Aug. 2021 - May 2025)",
+  "<br>",
+  "B.S. Computer Science, Software Engineering | GPA: 3.36 / 4.0",
+  "<br>",
+  "Relevant Coursework:",
+  "<br>",
+  "     Data Structures and Algorithms, Web Development and Management Systems,",
+  "     Software Development, Software Engineering, Project Management for Information Systems, Operating Systems.",
   "<br>"
 ];
 
 summary = [
   "<br>",
-  "",
-  "<br>"
-];
-
-resume = [
-  "<br>",
-  "",
+  "Dedicated software engineering student with a commitment to excellence, strong foundation",
+  "in software engineering principles, and a passion for innovative problem-solving. Skilled ",
+  "in customer service and excellent in high-pressure environments. Collaborates effectively with",
+  "cross-functional teams, aiming to make a significant impact in the dynamic field of technology.",
   "<br>"
 ];
 
@@ -65,14 +68,14 @@ help = [
   "<br>",
   '<span class="command">aboutme</span>        Who is Jakob Grebe?',
   '<span class="command">social</span>         Display social networks',
-  '<span class="command">summary</span>        The hardcore stuff!',
-  '<span class="command">education</span>      Where I go everyday!!',
-  '<span class="command">resume</span>         Ooo so professional',
-  '<span class="command">projects</span>       View my awesome projects',
-  '<span class="command">email</span>          Best form of contact!!!',
+  '<span class="command">summary</span>        My professional summary',
+  '<span class="command">education</span>      Current educaiton information',
+  '<span class="command">resume</span>         Up to date Resume',
+  '<span class="command">projects</span>       My Projects',
+  '<span class="command">email</span>          This will open your email application with my email address as the recipient',
   '<br>',
   '<span class="command">banner</span>         Display the header',
-  '<span class="command">help</span>           This has gotta be self explanatory right?',
+  '<span class="command">help</span>           Display all command options',
   '<span class="command">history</span>        View command history',
   '<span class="command">clear</span>          Clear terminal',
   "<br>",
