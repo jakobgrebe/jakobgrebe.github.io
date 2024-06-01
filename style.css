@@ -61,7 +61,7 @@ body {
   }
   #liner::before {
     color: #519975;
-    content: "visitor@jgrebe.com:~$";
+    content: "visitor@jakobgrebe.com:~$";
   }
   @keyframes show {
     from {
