@@ -1,8 +1,8 @@
-body {
+  body {
     margin: 0;
     padding: 15px 20px;
-    min-height: 99%;
-    width: 100%;
+    min-height: 99vh;
+    width: 100vw;
     min-width: 550px;
     color: #519975;
     background: #211D1B;
@@ -44,7 +44,7 @@ body {
   }
   @keyframes blinker {
     50% {
-      opacity: 0;
+        opacity: 0;
     }
   }
   #command {
@@ -65,10 +65,10 @@ body {
   }
   @keyframes show {
     from {
-      opacity: 0;
+        opacity: 0;
     }
     to {
-      opacity: 1;
+        opacity: 1;
     }
   }
   /* Cursor End */
@@ -78,7 +78,6 @@ body {
     margin: 0;
     overflow: hidden;
     white-space: nowrap;
-    margin: 0;
     letter-spacing: 0.05em;
     animation: typing 0.5s steps(30, end);
   }
@@ -90,10 +89,10 @@ body {
   }
   @keyframes typing {
     from {
-      width: 0;
+        width: 0;
     }
     to {
-      width: 100%;
+        width: 100%;
     }
   }
   .index {
@@ -136,5 +135,4 @@ body {
   .command {
     color: #73ABAD;
     text-shadow: 0 0 5px #73ABAD;
-
   }
