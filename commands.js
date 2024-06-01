@@ -11,8 +11,9 @@ aboutme = [
   "<br>",
   "I love the world of technology and am very eager to enter the workforce quickly after graduation, in May 2025!",
   "<br>",
-  "I currently work as a Kitchen Leader at Chipotle Mexican Grill—yes, I'm a certified burrito master! 🌯 Every moment here has been a blast.",
-  "Chipotle has transformed me into a teamwork ninja, a problem-solving guru, a time-management wizard, and a leadership champ",
+  "I currently work as a Kitchen Leader at Chipotle Mexican Grill—yes, I'm a certified burrito master! 🌯",
+  "Every moment here has been a blast. Chipotle has transformed me into a teamwork ninja,",
+  "a problem-solving guru, a time-management wizard, and a leadership champ",
   "(you know, those skills everyone claims they have, but mine come with extra guac).",
   "<br>",
   "I also had a summer job as a Door-to-Door Salesman for Alder Home Protection.",
@@ -27,7 +28,6 @@ aboutme = [
   "I hope you like it!",
   "<br>"
 ];
-
 
 social = [
   "<br>",
@@ -44,6 +44,18 @@ projects = [
 ];
 
 education = [
+  "<br>",
+  "",
+  "<br>"
+];
+
+summary = [
+  "<br>",
+  "",
+  "<br>"
+];
+
+resume = [
   "<br>",
   "",
   "<br>"
