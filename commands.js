@@ -1,11 +1,11 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/1OTl0rKsnkSTUDHNKqzrqFHzM6LYQRFKZ/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1vxuscsJm4pLWQXlOmh1qbc4TwmKDjX5j/view?usp=sharing"
 
 aboutme = [
   "<br>",
-  "Welcome👋 My name is Jakob Grebe!",
+  "Welcome 👋 My name is Jakob Grebe!",
   "<br>",
   "I am currently a Computer Software Engineering Student at Colorado State University!",
   "<br>",
