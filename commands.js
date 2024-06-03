@@ -5,6 +5,8 @@ var resume = "https://drive.google.com/file/d/1vxuscsJm4pLWQXlOmh1qbc4TwmKDjX5j/
 
 aboutme = [
   "<br>",
+  '<img src="Portrait.jpeg" alt="Jakob Grebe Picture" style="width:50px;height:auto;">', 
+  "<br>",
   "Welcome 👋 My name is Jakob Grebe!",
   "<br>",
   "I am currently a Computer Software Engineering Student at Colorado State University!",
