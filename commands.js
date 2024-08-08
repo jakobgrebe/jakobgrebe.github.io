@@ -1,7 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/1vxuscsJm4pLWQXlOmh1qbc4TwmKDjX5j/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/11wUAKlf-deEw62gOG1HqeJVXlfhPjJ26/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -18,11 +18,12 @@ aboutme = [
   "problem-solving, time-management, and a leadership skills! I work alongside an excellent",
   "team, which has made me become an excellent teammate and leader. ",
   "<br>",
-  "I also had a summer job as a Door-to-Door Salesman for Alder Home Protection.",
-  "It was a spontaneous adventure with friends that turned into a crash course in life skills.",
-  "This job wasn't just about knocking on doors; it sharpened my communication,",
-  "resilience, and negotiation skills in ways I never imagined. Plus, I now have",
-  "some great stories about convincing people to trust their homes to a stranger on their doorstep!",
+  "Additionally recently completed a simulated internship as part of the Software Engineering course (CS 314) at Colorado State University.",
+  "In this course, I collaborated with four other software developers to work on the backend systems of a trip planning application.",
+  "This experience provided a comprehensive understanding of real-world software development processes,",
+  "where we utilized Java, Postman for API testing, Docker for containerization, and Code Climate for code quality analysis.",
+  "It was an awesome opportunity that enhanced my technical skills in server-side development,",
+  "teamwork, and project management. The hands-on experience in a collaborative, Agile environment has prepared me for future software development roles.",
   "<br>",
   "I've always wanted to create an online portfolio website and decided that this would be a cool, unique way to approach it!",
   "With a bunch of time, and some help from coding YouTube gurus, I was able to create this Terminal Portfolio Website!",
@@ -34,7 +35,6 @@ aboutme = [
 social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/jakobgrebe' + "</a>",
-  'github         <a href="' + github + '" target="_blank">github/jakobgrebe' + "</a>",
   "<br>"
 ];
 
@@ -89,7 +89,7 @@ education = [
   "<br>",
   "Colorado State University - Fort Collins, CO (Aug. 2021 - May 2025)",
   "<br>",
-  "B.S. Computer Science, Software Engineering | GPA: 3.36 / 4.0",
+  "B.S. Computer Science, Software Engineering | GPA: 3.39 / 4.0",
   "<br>",
   "Relevant Coursework:",
   "<br>",
