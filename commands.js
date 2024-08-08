@@ -1,7 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/11wUAKlf-deEw62gOG1HqeJVXlfhPjJ26/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1H5i7LDV6WPBL8ILR89L4lQ9vNK8AK7dz/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -18,7 +18,7 @@ aboutme = [
   "problem-solving, time-management, and a leadership skills! I work alongside an excellent",
   "team, which has made me become an excellent teammate and leader. ",
   "<br>",
-  "Additionally recently completed a simulated internship as part of the Software Engineering course (CS 314) at Colorado State University.",
+  "Additionally, I recently completed a simulated internship as part of the Software Engineering course (CS 314) at Colorado State University.",
   "In this course, I collaborated with four other software developers to work on the backend systems of a trip planning application.",
   "This experience provided a comprehensive understanding of real-world software development processes,",
   "where we utilized Java, Postman for API testing, Docker for containerization, and Code Climate for code quality analysis.",
