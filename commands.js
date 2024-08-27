@@ -1,7 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/1H5i7LDV6WPBL8ILR89L4lQ9vNK8AK7dz/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/13q-mGd7RapnJjAATD-hSUozwjunOr2F-/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -26,8 +26,6 @@ aboutme = [
   "teamwork, and project management. The hands-on experience in a collaborative, Agile environment has prepared me for future software development roles.",
   "<br>",
   "I've always wanted to create an online portfolio website and decided that this would be a cool, unique way to approach it!",
-  "With a bunch of time, and some help from coding YouTube gurus, I was able to create this Terminal Portfolio Website!",
-  "<br>",
   "I hope you like it!",
   "<br>"
 ];
@@ -35,6 +33,7 @@ aboutme = [
 social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/jakobgrebe' + "</a>",
+  'github       <a href="' + github + '" target="_blank">github/jakobgrebe' + "</a>",
   "<br>"
 ];
 
@@ -52,6 +51,21 @@ projects = [
   "●  Developed two separate programs using C++: one for Raspberry Pi and another for desktop use.",
   "●  Implemented TCP/IP communication for remote commands.",
   "●  Utilized Raspbian/Raspberry Pi OS and Libcamera (library for controlling image capture hardware).",
+  "<br>",
+  "<br>",
+  "<br>",
+  "Online Professional Portfolio                               (May 2024 - Present)",
+  "<br>",
+  "Skills and Tools Used",
+  "<br>",
+  "   Javascript, HTML, CSS, VSCode, GitHub, Git, OOP",
+  "<br>",
+  "Summary",
+  "●  Developed an interactive professional portfolio utilizing JavaScript, HTML, and CSS.",
+  "●  Created a dynamic, terminal-inspired interface to simulate a realistic command-line environment on the webpage.",
+  "●  Emphasized user engagement through innovative design and seamless interactivity.",
+  "●  Employed object-oriented design principles to ensure maintainability and scalability.",
+  "<br>",
   "<br>",
   "<br>",
   "<br>",
@@ -87,14 +101,15 @@ projects = [
 
 education = [
   "<br>",
-  "Colorado State University - Fort Collins, CO (Aug. 2021 - May 2025)",
+  "Colorado State University - Fort Collins, CO (Expected May 2025)",
   "<br>",
-  "B.S. Computer Science, Software Engineering | GPA: 3.39 / 4.0",
+  "Bachelor of Science in Computer Science, Software Engineering | GPA: 3.39 / 4.0",
   "<br>",
   "Relevant Coursework:",
   "<br>",
-  "     Data Structures and Algorithms, Web Development and Management Systems,",
-  "     Software Development, Software Engineering, Project Management for Information Systems, Operating Systems.",
+  "     Data Structures and Algorithms, Web Development and Management Systems, Software",
+  "     Development, Software Engineering, Object-Oriented Design, Operating Systems, Linear Algebra, Systems",
+  "     Security.",
   "<br>"
 ];
 
