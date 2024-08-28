@@ -1,7 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/13q-mGd7RapnJjAATD-hSUozwjunOr2F-/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1PfBklKv_HfMNpRH1bkjxExQ6tIMqNTCk/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -33,7 +33,6 @@ aboutme = [
 social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/jakobgrebe' + "</a>",
-  'github       <a href="' + github + '" target="_blank">github/jakobgrebe' + "</a>",
   "<br>"
 ];
 
@@ -65,6 +64,8 @@ projects = [
   "●  Created a dynamic, terminal-inspired interface to simulate a realistic command-line environment on the webpage.",
   "●  Emphasized user engagement through innovative design and seamless interactivity.",
   "●  Employed object-oriented design principles to ensure maintainability and scalability.",
+  "●  Utilized GitHub and Git for version control and collaboration, employing VSCode as the primary",
+  "   development environment while applying object-oriented programming principles.",
   "<br>",
   "<br>",
   "<br>",
