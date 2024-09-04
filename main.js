@@ -26,7 +26,7 @@ function enterKey(e) {
       if (e.keyCode == 13) {
         commands.push(command.innerHTML);
         git = commands.length;
-        addLine("visitor@jakobgrebe.com:~$ " + command.innerHTML, "no-animation", 0);
+        addLine("visitor@jakobgrebe.com:~$ " + command.innerHTML, "command-line", 0);
         commander(command.innerHTML.toLowerCase());
         command.innerHTML = "";
         textarea.value = "";
@@ -66,7 +66,7 @@ function commander(cmd) {
       loopLines(education, "color2 margin", 80);
         break;
         case "resume":
-          addLine('Opening Current Resume: September 2024 Resume.pdf<a href="https://drive.google.com/file/d/1OTl0rKsnkSTUDHNKqzrqFHzM6LYQRFKZ/view?usp=sharing</a>...', "color2", 80);
+          addLine('Opening Current Resume: September 2024 Resume.pdf', "color2", 80);
           newTab(resume);
           break;
     case "social":
@@ -122,7 +122,7 @@ function addLine(text, style, time) {
   var t = "";
   for (let i = 0; i < text.length; i++) {
     if (text.charAt(i) == " " && text.charAt(i + 1) == " ") {
-      t += "&nbsp;&nbsp;";
+      t += "&nbsp;";
       i++;
     } else {
       t += text.charAt(i);
