@@ -1,14 +1,14 @@
 /* Base styles for larger screens */
-body {
+html, body {
   margin: 0;
-  padding: 15px 20px;
-  min-height: 99vh;
+  padding: 0;
+  min-height: 100vh;
   width: 100vw;
-  min-width: 550px;
   color: #519975;
   background: #211D1B;
   font-family: cursor, monospace;
-  overflow-x: hidden;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+  box-sizing: border-box; /* Ensure padding is included in element's total width */
 }
 
 ::selection {
@@ -49,24 +49,46 @@ b {
   animation: blinker 1s linear infinite;
 }
 
+.glowing-text {
+  color: #73ABAD;
+  text-shadow: 0 0 5px #73ABAD, 0 0 10px #73ABAD, 0 0 15px #73ABAD;
+  animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 5px #73ABAD, 0 0 10px #73ABAD;
+  }
+  to {
+    text-shadow: 0 0 10px #73ABAD, 0 0 15px #73ABAD;
+  }
+}
+
+.large-welcome {
+  font-family: 'Orbitron', sans-serif; 
+  font-size: 36px; 
+  font-weight: bold;
+}
+
+.small-text {
+  font-size: 16px; 
+  font-family: 'Courier New', Courier, monospace; 
+}
+
+
 @keyframes blinker {
   50% {
     opacity: 0;
   }
 }
 
-#command {
+#command, #liner {
   cursor: text;
   height: 50px;
   color: #73ABAD;
-}
-
-#liner {
-  line-height: 1.3em;
-  margin-top: -2px;
-  animation: show 0.5s ease forwards;
-  animation-delay: 1.2s;
-  opacity: 0;
+  white-space: normal; 
+  word-wrap: break-word;
+  overflow-wrap: break-word; 
 }
 
 #liner::before {
@@ -87,11 +109,13 @@ p {
   display: block;
   line-height: 1.3em;
   margin: 0;
-  overflow: hidden;
-  white-space: nowrap;
+  white-space: normal; 
+  word-wrap: break-word; 
+  overflow-wrap: break-word; 
   letter-spacing: 0.05em;
-  animation: typing 0.5s steps(30, end);
+  animation: none;
 }
+
 
 .no-animation {
   animation: typing 0 steps(30, end);
@@ -149,42 +173,31 @@ a:focus {
   outline: 0;
 }
 
+/* Removed fixed width for the .ascii-art element */
 .ascii-art {
   font-family: 'Courier New', Courier, monospace;
   white-space: pre;
 }
 
-.color2 {
-  color: #B89076;
-}
-
-.command {
-  color: #73ABAD;
-  text-shadow: 0 0 5px #73ABAD;
-}
-
 img {
   width: 100%;
   height: auto;
-  max-width: 200px; /* Adjust as needed */
+  max-width: 100%; /* Adjust image width dynamically */
 }
 
 /* Responsive styles for smaller screens */
 @media only screen and (max-width: 768px) {
   body {
     padding: 10px;
-    min-width: 100%;
   }
 
   #liner::before {
-    content: "visitor@jakobgrebe.com:~$";
     font-size: 14px;
   }
 
   .cursor {
     font-size: 10px;
     width: 8px;
-    max-width: 8px;
   }
 
   .command, .color2, .index, .error, .white, .inherit, a {
@@ -197,8 +210,6 @@ img {
 
   img {
     width: 100%;
-    height: auto;
-    max-width: 200px; /* Adjust as needed */
   }
 }
 
@@ -208,14 +219,12 @@ img {
   }
 
   #liner::before {
-    content: "visitor@jakobgrebe.com:~$";
     font-size: 12px;
   }
 
   .cursor {
     font-size: 8px;
     width: 6px;
-    max-width: 6px;
   }
 
   .command, .color2, .index, .error, .white, .inherit, a {
@@ -228,7 +237,6 @@ img {
 
   img {
     width: 100%;
-    height: auto;
-    max-width: 150px; /* Adjust as needed */
+    max-width: 100%; /* Ensure images never cause horizontal scroll */
   }
 }

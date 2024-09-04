@@ -141,13 +141,10 @@ help = [
 ];
 
 banner = [
-  "  __        _         _         ___          _              ___           _    __       _ _        ",
-  "  \\ \\  __ _| | _____ | |__     / _ \\_ __ ___| |__   ___    / _ \\___  _ __| |_ / _| ___ | (_) ___   ",
-  "   \\ \\/ _` | |/ / _ \\| '_ \\   / /_\\/ '__/ _ \\ '_ \\ / _ \\  / /_)/ _ \\| '__| __| |_ / _ \\| | |/ _ \\  ",
-  " /\\_/ / (_| |   < (_) | |_) | / /_\\\\| | |  __/ |_) |  __/ / ___/ (_) | |  | |_|  _| (_) | | | (_) | ",
-  " \\___/ \\__,_|_|\\_\\___/|_.__/  \\____/|_|  \\___|_.__/ \\___| \\/    \\___/|_|   \\__|_|  \\___/|_|_|\\___/  ",
   "<br>",
-  '<span class="color2">Welcome to my interactive Terminal Portfolio.</span>',
-  '<span class="color2">For a list of available commands, type</span> <span class="command">\'help\'</span><span class="color2">.</span>',
+  '<span class="color2 glowing-text large-welcome">Welcome to my interactive Terminal Portfolio.</span>',
+  "<br>",
+  '<span class="color2 small-text">For a list of available commands, type</span> <span class="command small-text">\'help\'</span><span class="color2 small-text">.</span>',
   "<br>",
 ];
+
