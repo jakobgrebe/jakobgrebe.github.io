@@ -6,7 +6,6 @@
     <title>Jakob Grebe | Terminal Portfolio</title>
     <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap">
-    
 </head>
 <body>
     <div id="terminal">
@@ -21,6 +20,11 @@
                    moveIt(this.value.length, event)"
         onkeypress="typeIt(this, event);"
         autofocus
+        autocomplete="off"        
+        autocorrect="off"         
+        autocapitalize="off"      
+        spellcheck="false"        
+        inputmode="text"          
       ></textarea>
       <div id="liner">
         <span id="typer"></span><b class="cursor" id="cursor">█</b>
@@ -29,5 +33,5 @@
     <script src="textPointer.js"></script>
     <script src="commands.js"></script>
     <script src="main.js"></script>
-  </body> 
+</body> 
 </html>

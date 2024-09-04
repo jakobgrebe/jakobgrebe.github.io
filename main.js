@@ -50,6 +50,8 @@ function enterKey(e) {
   
 
 function commander(cmd) {
+  cmd = cmd.trim().replace(/\s+/g, ' ');
+  
   switch (cmd.toLowerCase()) {
     case "help":
       loopLines(help, "color2 margin", 80);
