@@ -200,6 +200,11 @@ img {
     font-size: inherit;
   }
 
+  .command-line {
+    color: #519975;
+    font-size: 14px; 
+  }
+
   img {
     width: 100%;
   }
@@ -221,6 +226,11 @@ img {
 
   .command, .color2, .index, .error, .white, .inherit, a {
     font-size: 12px;
+  }
+
+  .command-line {
+    color: #519975;
+    font-size: 12px; 
   }
 
   img {
