@@ -142,7 +142,7 @@ help = [
 
 banner = [
   "<br>",
-  '<span class="color2 glowing-text large-welcome">Welcome to my interactive Terminal Portfolio.</span>',
+  '<span class="glowing-text large-welcome">Welcome to my interactive Terminal Portfolio.</span>',
   "<br>",
   '<span class="color2 small-text">For a list of available commands, type</span> <span class="command small-text">\'help\'</span><span class="color2 small-text">.</span>',
   "<br>",
