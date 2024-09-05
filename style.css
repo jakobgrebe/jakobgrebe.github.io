@@ -33,8 +33,8 @@ b {
 }
 
 .cursor {
-  font-size: 12px;
-  caret-color: transparent; /* Hides the text cursor */
+  font-size: inherit;
+  caret-color: transparent; 
   color: #519975;
   background-color: #519975;
   position: relative;
@@ -84,7 +84,8 @@ b {
 
 #command, #liner {
   cursor: text;
-  height: 50px;
+  height: 3em;
+  max-width: 100%;
   color: #519975;
   white-space: normal; 
   word-wrap: break-word;
@@ -183,6 +184,11 @@ img {
 
 @media only screen and (max-width: 768px) {
 
+  #command, #liner {
+    font-size: 14px;
+    height: 2.5em;
+  }
+
   .small-text, #liner::before {
     font-size: 14px; 
   }
@@ -211,6 +217,11 @@ img {
 }
 
 @media only screen and (max-width: 480px) {
+
+  #command, #liner {
+    font-size: 12px; 
+    height: 2em;
+  }
 
   .small-text, #liner::before {
     font-size: inherit; 
