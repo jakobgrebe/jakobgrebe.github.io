@@ -33,7 +33,7 @@ aboutme = [
 social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/jakobgrebe' + "</a>",
-  'github         <a href="' + github + '" target="_blank">github/jakobgrebe' + "</a>",
+  'github           <a href="' + github + '" target="_blank">github/jakobgrebe' + "</a>",
   "<br>"
 ];
 
