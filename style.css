@@ -203,7 +203,7 @@ img {
   }
 
   .command, .color2, .index, .error, .white, .inherit, a {
-    font-size: inherit;
+    font-size: 14px;
   }
 
   .command-line {
@@ -224,7 +224,7 @@ img {
   }
 
   .small-text, #liner::before {
-    font-size: inherit; 
+    font-size: 12px; 
   }
   body {
     padding: 5px;
