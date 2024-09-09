@@ -7,7 +7,8 @@ html, body {
   color: #519975;
   background: #211D1B;
   font-family: cursor, monospace;
-  overflow: hidden; 
+  overflow-x: hidden;
+  overflow-y: auto;
   box-sizing: border-box; 
 }
 
