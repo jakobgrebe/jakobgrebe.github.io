@@ -53,7 +53,7 @@ projects = [
   "<br>",
   "<br>",
   "<br>",
-  "Remote Image and Video Capture System Using Raspberry Pi              (May 2024)",
+  "Remote Image and Video Capture System Using Raspberry Pi              (Jan. 2024 - May 2024)",
   "<br>",
   "Skills and Tools Used",
   "<br>",
