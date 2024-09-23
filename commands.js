@@ -1,7 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/1KraMwUAyuB0dS5sqBjmQNG9uL3U4Tfvy/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1MrkvPCROyk7aHnyqZiXpEGHWIDH6w9T-/view?usp=sharing"
 
 aboutme = [
   "<br>",
