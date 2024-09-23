@@ -66,7 +66,7 @@ function commander(cmd) {
       loopLines(education, "color2 margin", 80);
         break;
         case "resume":
-          addLine('Opening Current Resume: September 2024 Resume.pdf', "color2", 80);
+          addLine('Opening Current Resume', "color2", 80);
           newTab(resume);
           break;
     case "social":
