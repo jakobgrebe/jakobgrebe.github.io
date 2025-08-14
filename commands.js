@@ -1,7 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/1XXmqeYzGhpcCbyt_zLIirvajX64WPjFu/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1H0mRFiVJg3WImW01r50GJxZvCTLXKJYh/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -9,14 +9,16 @@ aboutme = [
   "<br>",
   "Welcome 👋 My name is Jakob Grebe!",
   "<br>",
-  "I am currently pursuing a Bachelor of Science in Computer Science with a concentration in Software Engineering at Colorado State University!",
+  "I currently am a Software Engineer at RSM working on the Managed Application Service team!",
   "<br>",
-  "I have a passion for technology and am eager to contribute to the field after I graduate in May 2025!",
+  "I have a Bachelor of Science in Computer Science with a concentration in Software Engineering from Colorado State University!",
   "<br>",
-  "I currently work as a Kitchen Leader at Chipotle Mexican Grill. It has been an amazing experience, where I've learned leadership, problem-solving, and teamwork skills.",
-  "Leading a team of over eight people has helped me develop strong management and mentoring abilities in high-paced environments.",
+  "I have a passion for technology and am eager to apply the knowledge that I have learned at university and from working at RSM to the ever growing field of technology!",
   "<br>",
-  "Additionally, I contribute to augmented and virtual reality research at NUI Lab as a Volunteer Research Assistant, where I help enhance immersive environments and improve user experiences.",
+  "I have experiance working as a Service Leader at Chipotle Mexican Grill. It was an amazing experience, where I learned leadership, problem-solving, and teamworking skills.",
+  "Leading a team of over eight people helped me develop strong management and mentoring abilities in high-paced environments.",
+  "<br>",
+  "Additionally, I contributed to augmented and virtual reality research at NUI Lab as a Volunteer Research Assistant, where I helped enhance immersive environments and improve user experiences.",
   "<br>",
   "I also completed a simulated internship in my Software Engineering course (CS 314) at Colorado State University, working on backend systems for a trip planning application.",
   "This experience involved collaborating with a team of developers, utilizing Java, Postman for API testing, Docker for containerization, and Code Climate for code quality analysis.",
@@ -83,9 +85,9 @@ projects = [
 
 education = [
   "<br>",
-  "Colorado State University - Fort Collins, CO (Expected May 2025)",
+  "Colorado State University - Fort Collins, CO (August 2021 - May 2025)",
   "<br>",
-  "Bachelor of Science in Computer Science, Software Engineering | GPA: 3.39 / 4.0",
+  "Bachelor of Science in Computer Science, Software Engineering | GPA: 3.34 / 4.0",
   "<br>",
   "Relevant Coursework:",
   "<br>",
