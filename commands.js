@@ -36,7 +36,7 @@ social = [
 
 projects = [
   "<br>",
-  "API for Real-Time Environmental Data Collection              (May 2024 - Present)",
+  "API for Real-Time Environmental Data Collection              (May 2024 - October 2025)",
   "<br>",
   "Skills and Tools Used",
   "<br>",
