@@ -97,10 +97,7 @@ education = [
 
 summary = [
   "<br>",
-  "Dedicated software engineering student with a commitment to excellence, strong foundation",
-  "in software engineering principles, and a passion for innovative problem-solving. Skilled ",
-  "in customer service and excellent in high-pressure environments. Collaborates effectively with",
-  "cross-functional teams, aiming to make a significant impact in the dynamic field of technology.",
+  "Dedicated software engineer with a commitment to excellence, strong foundation in software engineering principles, and a passion for innovative problem-solving. Skilled in customer service and excellent in high-pressure environments. Collaborates effectively with cross-functional teams, aiming to make a significant impact in the dynamic field of technology.",
   "<br>"
 ];
 
