@@ -1,7 +1,6 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
-var github = "https://github.com/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/1H0mRFiVJg3WImW01r50GJxZvCTLXKJYh/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1JBhkhx7FH9fv3r4G33DIbNY1Vq6pXmGB/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -13,7 +12,12 @@ aboutme = [
   "<br>",
   "I have a passion for technology and am eager to apply the knowledge that I have learned at university to the ever growing field of technology!",
   "<br>",
-  "I have experience working as a Service Leader at Chipotle Mexican Grill. It was an amazing experience, where I learned leadership, problem-solving, and teamworking skills.",
+  "I'm currently working as a Managed Application Services Associate at RSM, where I act as a technical consultant and developer for enterprise-level ERP systems.",
+  "My day-to-day involves using X++ and SQL to build custom backend enhancements and integrations within Microsoft Dynamics 365.",
+  "I manage a diverse portfolio of clients, which means I'm constantly diving into virtual environments to troubleshoot complex server-side issues and translate unique business needs into scalable technical solutions.",
+  "It’s a fast-paced mix of deep-dive debugging, systems architecture, and building long-term relationships to help businesses run more efficiently.",
+  "<br>",
+  "Additionally, I have experience working as a Service Leader at Chipotle Mexican Grill. It was an amazing experience, where I learned leadership, problem-solving, and teamworking skills.",
   "Leading a team of over eight people has helped me develop strong management and mentoring abilities in high-paced environments.",
   "<br>",
   "Additionally, I contributed to augmented and virtual reality research at NUI Lab as a Volunteer Research Assistant, where I helped enhance immersive environments and improve user experiences.",
@@ -23,6 +27,7 @@ aboutme = [
   "It was a fantastic hands-on opportunity to work in an Agile environment using Scrum methodologies, preparing me for future software engineering roles.",
   "<br>",
   "I've always wanted to create an online portfolio website, and I decided that this would be a unique way to approach it!",
+  "<br>",
   "I hope you like it!",
   "<br>"
 ];
@@ -30,7 +35,6 @@ aboutme = [
 social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/jakobgrebe' + "</a>",
-  'github           <a href="' + github + '" target="_blank">github/jakobgrebe' + "</a>",
   "<br>"
 ];
 
@@ -47,21 +51,6 @@ projects = [
   "●  Simulated continuous data streams from IoT sensors through a Python script, ensuring automated and consistent data ingestion while preserving historical records for analysis.",
   "●  Utilized Postman to rigorously test API endpoints, ensuring functionality and performance under real-time conditions.",
   "●  Leveraged Git, GitHub, and VSCode for version control, seamless collaboration, and efficient development.",
-  "<br>",
-  "<br>",
-  "<br>",
-  "Remote Image and Video Capture System Using Raspberry Pi              (Jan. 2024 - May 2024)",
-  "<br>",
-  "Skills and Tools Used",
-  "<br>",
-  "   C++, Raspberry Pi, Libcamera, Raspbian/Raspberry Pi OS, Git, GitHub",
-  "<br>",
-  "Summary",
-  "●  Developed a remote capture system with two classmates.",
-  "●  Built with a Raspberry Pi, camera sensor, and desktop interface.",
-  "●  Developed two separate programs using C++: one for Raspberry Pi and another for desktop use.",
-  "●  Implemented TCP/IP communication for remote commands.",
-  "●  Utilized Raspbian/Raspberry Pi OS and Libcamera (library for controlling image capture hardware).",
   "<br>",
   "<br>",
   "<br>",
