@@ -1,6 +1,6 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/1JBhkhx7FH9fv3r4G33DIbNY1Vq6pXmGB/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/17QxgNjD6kZiO3rmRBJgGJJieCd-syXzp/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -86,7 +86,11 @@ education = [
 
 summary = [
   "<br>",
-  "Dedicated software engineer with a commitment to excellence, strong foundation in software engineering principles, and a passion for innovative problem-solving. Skilled in customer service and excellent in high-pressure environments. Collaborates effectively with cross-functional teams, aiming to make a significant impact in the dynamic field of technology.",
+"Results-driven professional with a strong foundation in systems engineering and software development, committed to technical excellence and innovative problem-solving.",
+"Experienced in bridging the gap between technical execution and business needs as a Managed Application Services Associate, where I lead functional ERP enhancements and",
+"resolve critical application issues through rigorous root-cause analysis. Skilled at collaborating with cross-functional teams in high-pressure environments, I am passionate",
+"about managing the lifecycle of complex systems and ensuring the seamless integration of diverse architectures. Aiming to leverage my technical troubleshooting and system",
+"design skills to make a significant impact in the aerospace and technology sectors.",
   "<br>"
 ];
 
