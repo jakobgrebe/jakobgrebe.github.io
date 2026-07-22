@@ -1,6 +1,6 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/17QxgNjD6kZiO3rmRBJgGJJieCd-syXzp/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1xY1NS05WDGwS1co5qE0k10n4kpxjZQR9/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -10,9 +10,9 @@ aboutme = [
   "<br>",
   "I have a Bachelor of Science in Computer Science with a concentration in Software Engineering from Colorado State University!",
   "<br>",
-  "I am passionate about technology and am eager to apply the knowledge that I have learned at university to the ever growing field of tech!",
+  "I am passionate about technology and am eager to apply the knowledge that I have learned at university to the ever growing field of technology!",
   "<br>",
-  "I'm currently working as a Managed Application Services Associate at RSM, where I act as a technical consultant and developer for enterprise-level ERP systems.",
+  "I'm currently working as a Software Engineer at RSM US LLP, where I act as a developer and technical consultant for enterprise-level ERP systems.",
   "My day-to-day involves using X++ and SQL to build custom backend enhancements and integrations within Microsoft Dynamics 365. I manage a diverse portfolio of ",
   "clients, which means I'm constantly diving into virtual environments to troubleshoot complex server-side issues and translate unique business needs into scalable",
   "technical solutions. It’s a fast-paced mix of deep-dive debugging, systems architecture, and building long-term relationships to help businesses run more efficiently.",
@@ -58,9 +58,8 @@ projects = [
   "●  Developed an interactive professional portfolio utilizing JavaScript, HTML, and CSS.",
   "●  Created a dynamic, terminal-inspired interface to simulate a realistic command-line environment on the webpage.",
   "●  Emphasized user engagement through innovative design and seamless interactivity.",
-  "●  Employed object-oriented design principles to ensure maintainability and scalability.",
   "●  Utilized GitHub and Git for version control and collaboration, employing VSCode as the primary",
-  "   development environment while applying object-oriented programming principles.",
+  "   development environment.",
   "<br>",
 ];
 
@@ -82,7 +81,7 @@ summary = [
   "<br>",
 "Results-driven professional with a strong foundation in systems engineering and software development, committed",
 "to technical excellence and innovative problem-solving. Experienced in bridging the gap between technical execution",
-"and business needs as a Managed Application Services Associate, where I lead functional ERP enhancements and resolve",
+"and business needs as a Software Engineer, where I lead functional ERP enhancements and resolve",
 "critical application issues through rigorous root-cause analysis. Skilled at collaborating with cross-functional teams",
 "in high-pressure environments, I am passionate about managing the lifecycle of complex systems and ensuring the seamless",
 "integration of diverse architectures. Aiming to leverage my technical troubleshooting and system design skills to make a",
