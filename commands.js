@@ -1,6 +1,6 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/1xY1NS05WDGwS1co5qE0k10n4kpxjZQR9/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1Vqp0N8ZxRF1sQ9seBKq8iY7tooiMS5uc/view?usp=sharing"
 
 aboutme = [
   "<br>",
