@@ -52,7 +52,7 @@ projects = [
   "<br>",
   "Skills and Tools Used",
   "<br>",
-  "   Javascript, HTML, CSS, VSCode, GitHub, Git, OOP",
+  "   Javascript, HTML, CSS, VSCode, GitHub, Git",
   "<br>",
   "Summary",
   "●  Developed an interactive professional portfolio utilizing JavaScript, HTML, and CSS.",
