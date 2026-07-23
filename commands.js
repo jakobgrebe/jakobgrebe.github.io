@@ -4,7 +4,7 @@ var resume = "https://drive.google.com/file/d/1Vqp0N8ZxRF1sQ9seBKq8iY7tooiMS5uc/
 
 aboutme = [
   "<br>",
-  '<img src="Headshot.jpeg" alt="Jakob Grebe Picture" style="width:200px;height:auto;">', 
+  '<img src="Headshot.jpg" alt="Jakob Grebe Picture" style="width:200px;height:auto;">', 
   "<br>",
   "Welcome 👋 My name is Jakob Grebe!",
   "<br>",
