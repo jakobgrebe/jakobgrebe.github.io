@@ -58,8 +58,7 @@ projects = [
   "●  Developed an interactive professional portfolio utilizing JavaScript, HTML, and CSS.",
   "●  Created a dynamic, terminal-inspired interface to simulate a realistic command-line environment on the webpage.",
   "●  Emphasized user engagement through innovative design and seamless interactivity.",
-  "●  Utilized GitHub and Git for version control and collaboration, employing VSCode as the primary",
-  "   development environment.",
+  "●  Utilized GitHub and Git for version control and collaboration, employing VSCode as the primary development environment.",
   "<br>",
 ];
 
