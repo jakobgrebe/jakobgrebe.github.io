@@ -64,9 +64,9 @@ projects = [
 
 education = [
   "<br>",
-  "Colorado State University - Fort Collins, CO (August 2021 - May 2025)",
+  "Colorado State University - Fort Collins, CO (2021 - 2025)",
   "<br>",
-  "Bachelor of Science in Computer Science, Software Engineering | GPA: 3.34 / 4.0",
+  "Bachelor of Science in Computer Science, Software Engineering",
   "<br>",
   "Relevant Coursework:",
   "<br>",
