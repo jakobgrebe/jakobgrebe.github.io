@@ -78,13 +78,13 @@ education = [
 
 summary = [
   "<br>",
-"Results-driven professional with a strong foundation in systems engineering and software development, committed",
-"to technical excellence and innovative problem-solving. Experienced in bridging the gap between technical execution",
-"and business needs as a Software Engineer, where I lead functional ERP enhancements and resolve",
-"critical application issues through rigorous root-cause analysis. Skilled at collaborating with cross-functional teams",
-"in high-pressure environments, I am passionate about managing the lifecycle of complex systems and ensuring the seamless",
-"integration of diverse architectures. Aiming to leverage my technical troubleshooting and system design skills to make a",
-"significant impact in the aerospace and technology sectors.",
+  "Results-driven professional with a strong foundation in software development and systems architecture, committed",
+  "to technical excellence and innovative problem-solving. Experienced in bridging the gap between technical execution",
+  "and business needs as a Software Engineer, where I lead functional software enhancements and resolve critical application",
+  "issues through rigorous root-cause analysis. Skilled at collaborating with cross-functional teams in high-pressure",
+  "environments, I am passionate about managing the lifecycle of complex software systems and ensuring the seamless",
+  "integration of diverse architectures. Aiming to leverage my technical troubleshooting and engineering skills to build",
+  "scalable solutions and make a significant impact in the technology industry.",
   "<br>"
 ];
 
