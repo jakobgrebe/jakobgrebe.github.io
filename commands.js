@@ -12,7 +12,7 @@ aboutme = [
   "<br>",
   "I am passionate about technology and am eager to apply the knowledge that I have learned at university to the ever growing field of technology!",
   "<br>",
-  "I'm currently working as a Software Engineer at RSM US LLP, where I act as a developer and technical consultant for enterprise-level ERP systems.",
+  "I'm currently working as a Managed Application Services Associate at RSM US LLP, where I act as a technical consultant for enterprise-level ERP systems.",
   "My day-to-day involves using X++ and SQL to build custom backend enhancements and integrations within Microsoft Dynamics 365. I manage a diverse portfolio of ",
   "clients, which means I'm constantly diving into virtual environments to troubleshoot complex server-side issues and translate unique business needs into scalable",
   "technical solutions. It’s a fast-paced mix of deep-dive debugging, systems architecture, and building long-term relationships to help businesses run more efficiently.",
@@ -70,7 +70,7 @@ education = [
   "<br>",
   "Relevant Coursework:",
   "<br>",
-  "     Data Structures and Algorithms, Web Development and Management Systems, Software",
+  "     Database Systems, Data Structures and Algorithms, Web Development and Management Systems, Software",
   "     Development, Software Engineering, Object-Oriented Design, Operating Systems, Linear Algebra, Systems",
   "     Security.",
   "<br>"
@@ -78,13 +78,13 @@ education = [
 
 summary = [
   "<br>",
-  "Results-driven professional with a strong foundation in software development and systems architecture, committed",
+  "Results-driven professional with a strong foundation in application management and system architecture, committed",
   "to technical excellence and innovative problem-solving. Experienced in bridging the gap between technical execution",
-  "and business needs as a Software Engineer, where I lead functional software enhancements and resolve critical application",
-  "issues through rigorous root-cause analysis. Skilled at collaborating with cross-functional teams in high-pressure",
-  "environments, I am passionate about managing the lifecycle of complex software systems and ensuring the seamless",
-  "integration of diverse architectures. Aiming to leverage my technical troubleshooting and engineering skills to build",
-  "scalable solutions and make a significant impact in the technology industry.",
+  "and business needs as a Managed Application Services Associate, leading updates and resolving critical application",
+  "issues through rigorous data analysis. Skilled at collaborating with cross-functional teams in high-pressure",
+  "environments, I am passionate about managing the lifecycle of complex applications and ensuring the seamless",
+  "integration of diverse architectures. Aiming to leverage my technical and data management skills to build",
+  "scalable solutions and make a significant impact in the technology industry."
   "<br>"
 ];
 
