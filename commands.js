@@ -1,6 +1,6 @@
 var linkedin = "https://www.linkedin.com/in/jakobgrebe/";
 var email = 'mailto:jakobgrebe98@gmail.com';
-var resume = "https://drive.google.com/file/d/1Vqp0N8ZxRF1sQ9seBKq8iY7tooiMS5uc/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1QWwGpzEwDulOCCVvgNvre_JdP-tJx-o0/view?usp=sharing"
 
 aboutme = [
   "<br>",
@@ -23,13 +23,13 @@ aboutme = [
   "I've always wanted to create an online portfolio website, and I decided that this would be a unique way to approach it!",
   "<br>",
   "I hope you like it!",
-  "<br>"
+  "<br>",
 ];
 
 social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/jakobgrebe' + "</a>",
-  "<br>"
+  "<br>",
 ];
 
 projects = [
@@ -73,7 +73,7 @@ education = [
   "     Database Systems, Data Structures and Algorithms, Web Development and Management Systems, Software",
   "     Development, Software Engineering, Object-Oriented Design, Operating Systems, Linear Algebra, Systems",
   "     Security.",
-  "<br>"
+  "<br>",
 ];
 
 summary = [
@@ -84,8 +84,8 @@ summary = [
   "issues through rigorous data analysis. Skilled at collaborating with cross-functional teams in high-pressure",
   "environments, I am passionate about managing the lifecycle of complex applications and ensuring the seamless",
   "integration of diverse architectures. Aiming to leverage my technical and data management skills to build",
-  "scalable solutions and make a significant impact in the technology industry."
-  "<br>"
+  "scalable solutions and make a significant impact in the technology industry.",
+  "<br>",
 ];
 
 help = [
